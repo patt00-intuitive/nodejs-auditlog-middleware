@@ -1,5 +1,3 @@
-# nodejs-auditlog-middleware
-
 ## Audit Logger Middleware
 
 This middleware provides audit logging functionality for Express.js applications. It captures and logs user activities and request details, storing them as audit logs in a database.
